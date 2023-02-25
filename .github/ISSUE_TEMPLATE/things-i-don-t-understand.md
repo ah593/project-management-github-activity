@@ -2,7 +2,7 @@
 name: Things I Don't Understand
 about: This is for adding issues that you don't understand
 title: ''
-labels: Thing I Don't understand
+labels: Thing I don't understand
 assignees: ''
 
 ---
